@@ -18,3 +18,7 @@ This repository contains a reimplementation of the CLIP (Contrastive Language–
 To use this repository, clone it and install the necessary dependencies:
 
 **TODO**
+
+## Acknowledgements
+
+This implementation is inspired by and based on the original [CLIP paper by OpenAI](https://arxiv.org/abs/2103.00020). You can find their original repo [here](https://github.com/openai/CLIP) and their original paper [here](https://arxiv.org/abs/2103.00020).
